@@ -2,6 +2,11 @@
 
 show you a very powerful architecture used by platforms like Shopify and Webflow that lets you deploy thousands of customer websites automatically with almost zero operational cost
 
+## TODO
+- [ ] Add more options
+- [ ] See services with sandbox and create a pipeline with automation
+- [ ] Test with services that have free sandbox and pipeline creation to understand the DNS part of things
+- [ ] More options
 # Response
 
 ---

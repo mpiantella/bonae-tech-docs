@@ -60,21 +60,6 @@ The limitation: Route 53 is more expensive ($12–$15/domain vs Cloudflare's at-
 
 ---
 
-### 3. **Namecheap** — Has an API but is not IaC-native
-- API exists but is XML-based and dated
-- There's a community Terraform provider but it's unofficial and unreliable
-- Not recommended for serious automation at scale
-
----
-
-### 4. **DNSimple** — Underrated for MSPs and agencies
-- Clean REST API, official Terraform provider
-- Built specifically for programmatic DNS management
-- Good fit if you're managing domains across multiple clients with separate accounts
-- More expensive per domain but the developer experience justifies it for scale
-
----
-
 ## Recommended Architecture for Bonae Tech
 
 Given your stack (Cloudflare Pages, Astro/Nuxt, LATAM focus), here's the ideal automated pipeline:
@@ -116,5 +101,3 @@ This means a new client site goes from zero to live with a single parameterized 
 
 **For Bonae Tech specifically: Cloudflare is the right call.** The at-cost domain pricing matters when you're managing dozens of client domains, and having DNS + CDN + deployment + SSL all under one Terraform provider dramatically reduces operational complexity.
 
-
-##
