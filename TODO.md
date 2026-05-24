@@ -40,3 +40,6 @@ ccTLD Compliance: Registering a country-code domain like .br (Brazil) or .ar (Ar
 - [ ] Add the idea of considering tools like Figma 
 - [ ] Need to fix Trello board so it's easier to work with it. Integrate with VSCode?
 
+## Agregar
+Test to remove
+
