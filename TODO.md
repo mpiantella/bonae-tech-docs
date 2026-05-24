@@ -41,5 +41,9 @@ ccTLD Compliance: Registering a country-code domain like .br (Brazil) or .ar (Ar
 - [ ] Need to fix Trello board so it's easier to work with it. Integrate with VSCode?
 
 ## Agregar
-Test to remove
+
+Empresa dedicada a soluciones digitales
+-reunion
+-materiales
+-organizacion
 
