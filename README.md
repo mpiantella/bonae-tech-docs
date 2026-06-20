@@ -1,12 +1,6 @@
-# nobam-digital-services-docs
+# Bonae Tech
 
-Next steps:
-
-- Create a website using every static-site framework listed. 
-- Review all the suggested hosting services like Cloudfare, AWS and other combined architectures.
-
-## Deployed
-
+Aca se guarda cualquier tipo de referencias, POC or pruebas de codigo con referentes a Bonae Tech
 ### Cloudfare
 
 * **Repo**:
